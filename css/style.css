@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;   
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lightgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER */
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.titolo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header{
+    background-color: white;
+    padding: 10px 12px;
+}
+
+/* /HEADER */
+
+/* MAIN */
+
+.container{
+
+}
+
+.bottoni{
+    h
+    border-bottom: 3px;
+}
+/* /MAIN */
