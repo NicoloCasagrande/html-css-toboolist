@@ -87,6 +87,7 @@ header{
 
 h3{
     display: inline-block;
+    font-size: medium;
 }
 
 .circle{
@@ -132,6 +133,7 @@ h3{
 }
 
 .menu-riga{
+    margin-top: 5px;
     margin-bottom: 10px;
 }
 
@@ -159,5 +161,10 @@ h3{
     padding-bottom: 30px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+}
+
+em{
+    font-style: bold;
+    font-style: normal;
 }
 /* /MAIN */
