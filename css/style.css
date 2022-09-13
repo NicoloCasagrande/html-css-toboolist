@@ -38,13 +38,16 @@ header{
     padding-top: 15px;
     border-bottom: 15px;
     border-color: #F6F8F9;
+    border-radius: 8px;
 }
 
 #container-iniziale{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    border-bottom: #F6F8F9;
-    border-bottom-style: 4px;
+    border: 15px;
+    border-color: #F6F8F9;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .bottoni{
@@ -79,6 +82,7 @@ header{
 
 .freccetta{
     display: inline-block;
+    vertical-align: bottom;
 }
 
 h3{
@@ -141,5 +145,19 @@ h3{
 
 #casella-arancione{
     background-color: #F29E33;
+}
+
+#casella-fuxia{
+    background-color: #D863A1;
+}
+
+#casella-verdino{
+    background-color: #B0C926;
+}
+
+#menu-finale{
+    padding-bottom: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 /* /MAIN */
