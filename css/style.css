@@ -71,13 +71,14 @@ header{
     border-radius: 5px;
     color: white;
     border-color: #45ABEA;
+    border: 1px solid;
 }
 
 #bottone2{
-    background-color: white;
+    background-color: transparent;
     border-radius: 5px;
-    color: lightgray;
-    border-color: lightgray;
+    color: lightgrey;
+    border: 1px solid lightgrey;
 }
 
 .freccetta{
